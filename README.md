@@ -7,3 +7,5 @@ Will making doesn't have to be the daunting process that it is today involving a
 It should be flexible and dynamic, something that evolves as you evolve!
 
 Willo aims to bring the important task of will making to your fingertips in the form of a mobile app.
+
+(Code maintained in private BitBucket Repo.)
